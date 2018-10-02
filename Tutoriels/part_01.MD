@@ -1,14 +1,16 @@
 
 # Partagez votre projet sur GitHub
 
-v0.1.0
+v0.1.1
 
 ## INTRODUCTION
 
-Ce tutoriel a pour objectif d'expliquer **comment partager son projet sur GitHub**. Evidement il existe d'autres plateformes pour partager un projet, pour n'en citez qu'un on peut évoquer GitLab, mais ce tutoriel explique comment partager via GitHub.
+Ce tutoriel a pour objectif d'expliquer **comment partager son projet sur GitHub**. Evidement il existe d'autres plateformes pour partager un projet, pour n'en citez qu'une on peut évoquer GitLab, mais ce tutoriel explique comment partager via GitHub.
 
 Pré-requis :
-* Être sous **Windows** (j'expliquerai ultérieurement comment faire sur Linux, pour les produits Apple je ne pourrai pas vous guider car je n'en ai pas sous la main - pensez à moi pour Noël...).
+* Être sous **Windows** (1)
+
+[1] J'expliquerai ultérieurement comment faire sur Linux, mais sachez que seul le client diffère. Pour les produits Apple je ne pourrai pas vous guider car je n'en ai pas sous la main - pensez à moi pour Noël...
 
 ## CRÉATION DU REPOSITORY
 
@@ -83,6 +85,8 @@ Pour envoyer vos fichiers/répertoires sur GitHub il faut suivre plusieurs étapes
 * **git commit -m "Un commentaire"** : permet de valider le ou les *git add* effectué avant.
 * **git push** : permet d'envoyer vos commits en attentes sur GitHub (demande votre login dans la console puis votre mot de passe dans une fenêtre, voir captures).
 
+Vous pouvez faire un *git status* après chacune des étapes.
+
 ![Commandes pour envoyer vos fichiers/répertoires sur GitHub](Images/08_gestion_source_v1.0.jpg)
 
 Voici à quoi ressemble la fenêtre demandant votre mot de passe :
@@ -97,4 +101,4 @@ Il s'agit d'un fichier qu'il est conseillé d'ajouter, en effet ce fichier est se
 
 ## CONCLUSION
 
-Vous avez désormais le kit de survie pour partager vos projets sur GitHub via git bash.
+Vous avez désormais le kit de survie pour partager vos projets sur GitHub via git bash (pour Windows).

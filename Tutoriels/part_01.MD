@@ -1,7 +1,7 @@
 
 # Partagez votre projet sur GitHub
 
-v0.0.2
+v0.0.3
 
 ## INTRODUCTION
 
@@ -21,7 +21,7 @@ Nous allons voir ici comment créer un repository sur GitHub.
 
 ![Repositories](Images/01_repositories_v1.0.jpg)
 
-3. Sur la page suivante compléter les informations suivantes (comme le montre la capture ci-dessous) :
+3. Sur la page suivante complétez les informations suivantes (comme le montre la capture ci-dessous) :
 
 * (1) Donnez un nom à votre repository.
 * (2) Ajoutez une brève description (facultatif).
@@ -41,3 +41,44 @@ Sachez simplement que la GPL v3.0 :
 * Autorise la distribution de votre projet.
 * Etc.
 
+## GESTION DES SOURCES
+
+Pour parler avec les serveurs GitHub : récupérer votre repository en local, envoyer vos fichiers sur GitHub, etc ; nous avons besoin pour cela d'un client Git. Il en existe une multitude et j'ai fais le choix d'utiliser git bash (je parle ici d'un client Windows), vous pouvez [télécharger git bash](https://gitforwindows.org/) en suivant le lien et l'installer.
+
+### Récupérer le repository
+
+Dans un premier temps, il vous faut récupérer votre repository sur votre machine.
+
+Dans ce but copiez le lien du repository en suivant les étapes indiquées sur la capture ci-dessous :
+
+![Copier le lien du repository](Images/03_pre_clone_v1.0.jpg)
+
+Dans votre explorateur de fichiers ouvrez git bash via un clic droit (comme le montre la capture ci-dessous) :
+
+![Ouvrir git bash](Images/04_ouvrir_bash_v1.0.jpg)
+
+Enfin récupérer votre repository en écrivant **git clone adresse-du-repository** :
+
+![Récupérer le repository](Images/05_clone_v1.0.jpg)
+
+### Envoyez vos fichiers sur GitHub
+
+Dans le répertoire que vous venez de récupérer, ajoutez votre projet, ici : j'ai un répertoire nommé *Tutoriels* et un fichier *README.MD*.
+
+![Ajoutez votre projet](Images/06_creation_contenu_v1.0.jpg)
+
+Retournez dans git bash, déplacez vous dans le repository via **cd nom-du-repository** (cd signifie "change directory" autrement dit "changer de répertoire") :
+
+![Déplacez vous dans le repository](Images/07_deplacer_v1.0.jpg)
+
+Pour envoyer vos fichiers/répertoires sur GitHub il faut suivre plusieurs étapes :
+* **git status** : permet de visualiser quel est l'état du repository.
+* **git add fichiers repertoires** : permet d'indiquer que ces fichiers doivent être ajouter au repository.
+* **git commit -m "Un commentaire"** : permet de valider le ou les *git add* effectuez avant.
+* **git push** : permet d'envoyer vos commits en attentes sur GitHub (demande votre login dans la console puis votre mot de passe dans une fenêtre, voir captures).
+
+![Commandes pour envoyer vos fichiers/répertoires sur GitHub](Images/08_gestion_source_v1.0.jpg)
+
+Voici à quoi ressemble la fenêtre demandant votre mot de passe :
+
+![Mot de passe requis](Images/09_password_v0.0.jpg)

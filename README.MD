@@ -1,6 +1,6 @@
 
 # Notes sur l'utilisation de GitHub
 
-v0.0.1
+v0.0.2
 
-[Voir tutoriel](Tutoriels/part_01.MD)
+[Partie 1  : partagez votre projet sur GitHub](Tutoriels/part_01.MD)

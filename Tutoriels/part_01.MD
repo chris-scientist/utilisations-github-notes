@@ -1,7 +1,7 @@
 
 # Partagez votre projet sur GitHub
 
-v0.0.3
+v0.0.4
 
 ## INTRODUCTION
 
@@ -82,3 +82,7 @@ Pour envoyer vos fichiers/répertoires sur GitHub il faut suivre plusieurs étapes
 Voici à quoi ressemble la fenêtre demandant votre mot de passe :
 
 ![Mot de passe requis](Images/09_password_v0.0.jpg)
+
+Petite astuce : si vous voulez ajouter tous les fichiers en attente vous pouvez tapez **git add .**.
+
+Vous avez désormais le kit de survie pour partager vos projets sur GitHub.

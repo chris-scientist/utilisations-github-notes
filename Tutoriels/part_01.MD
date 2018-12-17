@@ -1,7 +1,7 @@
 
 # Partagez votre projet sur GitHub
 
-v0.1.1
+v0.1.2
 
 ## INTRODUCTION
 
@@ -95,7 +95,7 @@ Voici à quoi ressemble la fenêtre demandant votre mot de passe :
 
 Petite astuce : si vous voulez ajouter tous les fichiers en attente vous pouvez tapez **git add .**.
 
-**Revenons sur le fichiers README.MD**
+**Revenons sur le fichier README.MD**
 
 Il s'agit d'un fichier qu'il est conseillé d'ajouter, en effet ce fichier est sensé décrire votre projet. La syntaxe de ce fichier est en MarkDown.
 

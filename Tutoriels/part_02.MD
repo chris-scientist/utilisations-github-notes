@@ -1,11 +1,11 @@
 
 # Les tags - Partagez votre projet sur GitHub
 
-v0.0.1
+v0.0.2
 
 ## Introduction
 
-Avant de vous présenter ce qu'est un tag faisons un petit point ! Ce tutoriel suppose que vous avez les connaissance de bases sur Git et que vous avez un dépôt sur GitHub, dans le cas contraire reportez vous à la [partie 1](part_01.MD). Je présente ici une notion avancée de la gestion des sources.
+Avant de vous présenter ce qu'est un tag faisons un petit point ! Ce tutoriel suppose que vous avez les connaissance de bases sur Git, dans le cas contraire reportez vous à la [partie 1](part_01.MD). Je présente ici une notion avancée de la gestion des sources.
 
 Qu'est-ce qu'un tag ? Un tag est un instantané de votre projet, par exemple il peut s'agir de la version 1.0 de votre projet. Ce tag vous permet de garder un historique figé de votre projet, en effet c'est une version que vous ne pourrez pas modifier.
 

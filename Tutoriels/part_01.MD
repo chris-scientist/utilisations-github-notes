@@ -1,7 +1,7 @@
 
 # Partagez votre projet sur GitHub
 
-v0.2.0
+v0.2.1
 
 ## INTRODUCTION
 
@@ -13,7 +13,7 @@ Ce tutoriel est illustré pour un utilisateur sous Windows.
 
 Seul le client change pour ces système.
 
-Pour Linux et Mac OS la commande a utilisé est `git`.
+Pour Linux et Mac OS la commande a utilisé est `git` dans la console.
 
 ## Création du repository
 

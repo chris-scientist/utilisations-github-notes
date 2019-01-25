@@ -1,7 +1,7 @@
 
 # Les branches - Partagez votre code source sur GitHub
 
-v0.0.1
+v0.0.2
 
 ## Introduction
 
@@ -16,17 +16,17 @@ J'espère qu'avec cette exemple vous avez compris l'intérêt des branches.
 
 ## Pratique
 
-## Créer une branche et l'utiliser
+### Créer une branche et l'utiliser
 
 Pour créer la branche nommée "dev", la commande est `git branch dev`.
 
 Pour travailler sur cette branche "dev" (faire des commits), la commande est `git checkout dev`.
 
-## Envoyer une branche sur GitHub
+### Envoyer une branche sur GitHub
 
 Après avoir committer votre travail sur la branche "dev", pour envoyer celle-ci sur GitHub utiliser la commande `git push --set-upstream origin dev`.
 
-## Fusionner deux branche
+### Fusionner deux branche
 
 Nous allons rappatrier la branche "dev" sur "master".
 
@@ -36,7 +36,7 @@ Pour fusionner les branches "master" et "dev", voici la commande `git merge dev`
 
 Penser à pousser votre code sur GitHub via `git push`.
 
-## Supprimer la branche
+### Supprimer la branche
 
 Lorsque vous avez fini de travailler avec votre branche, vous pouvez la supprier avec la commande `git branch -d dev`.
 

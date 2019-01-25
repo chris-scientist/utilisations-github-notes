@@ -1,7 +1,7 @@
 
 # Partagez votre projet sur GitHub
 
-v0.2.1
+v0.2.2
 
 ## INTRODUCTION
 
@@ -64,7 +64,7 @@ Dans votre explorateur de fichiers ouvrez git bash via un clic droit (comme le m
 
 Enfin récupérer votre repository en écrivant **git clone adresse-du-repository** :
 
-![RŽcupŽrer le repository](Images/05_clone_v1.0.jpg)
+![Récupérer le repository](Images/05_clone_v1.0.jpg)
 
 ### Envoyez vos fichiers et répertoires sur GitHub
 
@@ -104,4 +104,4 @@ Il s'agit d'un fichier qu'il est conseillé d'ajouter, en effet ce fichier est s
 
 ## CONCLUSION
 
-Vous avez désormais le kit de survie pour partager vos projets sur GitHub via git bash (pour Windows).
+Vous avez désormais le kit de survie pour partager vos projets sur GitHub.

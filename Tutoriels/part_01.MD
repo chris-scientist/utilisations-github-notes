@@ -1,7 +1,7 @@
 
 # Partagez votre projet sur GitHub
 
-v0.2.2
+v0.3.0
 
 ## INTRODUCTION
 
@@ -104,4 +104,4 @@ Il s'agit d'un fichier qu'il est conseillé d'ajouter, en effet ce fichier est s
 
 ## CONCLUSION
 
-Vous avez désormais le kit de survie pour partager vos projets sur GitHub.
+Vous avez désormais le kit de survie pour partager vos projets sur GitHub. Dans la prochaine partie, nous allons voir comment gérer des tags.

@@ -1,7 +1,7 @@
 
 # Les tags - Partagez votre projet sur GitHub
 
-v0.0.2
+v0.1.0
 
 ## Introduction
 
@@ -67,4 +67,4 @@ Date:   Thu Jan 24 19:30:36 2019 +0100
 
 ## Conclusion
 
-Ce court tutoriel s'arrête là. Vous savez maintenant créer, partager et consulter les informations d'un tag.
+Vous savez maintenant créer, partager et consulter les informations d'un tag. Dans la prochaine partie, nous allons voir comment gérer des branches.

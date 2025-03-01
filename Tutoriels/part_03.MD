@@ -1,7 +1,7 @@
 
 # Les branches - Partagez votre code source sur GitHub
 
-v0.0.2
+v0.0.3
 
 ## Introduction
 
@@ -38,7 +38,7 @@ Penser à pousser votre code sur GitHub via `git push`.
 
 ### Supprimer la branche
 
-Lorsque vous avez fini de travailler avec votre branche, vous pouvez la supprier avec la commande `git branch -d dev`.
+Lorsque vous avez fini de travailler avec votre branche, vous pouvez la supprimer avec la commande `git branch -d dev`.
 
 Si vous utilisez une version de git supérieur ou égale à 1.7.0, pour pousser la suppression vers le dépôt distant utilisez la commande `git push origin --delete dev`.
 
